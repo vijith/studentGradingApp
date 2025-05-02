@@ -52,6 +52,7 @@ int main() {
                 int id;
                 float grade;
                 
+                std::cout << "Hey There! ";
                 std::cout << "Enter student ID: ";
                 std::cin >> id;
                 
