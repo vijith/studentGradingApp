@@ -52,6 +52,7 @@ int main() {
                 int id;
                 float grade;
                 
+                std::cout << "Hey There! ";
                 std::cout << "Enter student ID: ";
                 std::cin >> id;
                 
@@ -91,6 +92,8 @@ int main() {
                 }
                 
                 if (!found) {
+                    std::cout << "Student not found!" << std::endl;
+                    std::cout << "Student not found!" << std::endl;
                     std::cout << "Student not found!" << std::endl;
                 }
                 break;
