@@ -94,6 +94,7 @@ int main() {
                 if (!found) {
                     std::cout << "Student not found!" << std::endl;
                     std::cout << "Student not found!" << std::endl;
+                    std::cout << "Student not found!" << std::endl;
                 }
                 break;
             }
